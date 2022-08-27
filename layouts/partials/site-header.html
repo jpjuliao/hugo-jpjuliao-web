@@ -19,16 +19,49 @@
 {{ else }}
   <header>
     <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
-      {{ partial "site-navigation.html" . }}
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
-          {{ .Title | default .Site.Title }}
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-            {{ . }}
-          </h2>
-        {{ end }}
+      <div class="circles-wrapper">
+        <div class="area bg-transparent" >
+          <ul class="circles">
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+          </ul>
+        </div >
+      </div>
+      <!--Waves Container-->
+      <div class="waves-wrapper">
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 24 150 28" preserveaspectratio="none" shape-rendering="auto">
+          <defs>
+            <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"/>
+          </defs>
+          <g class="parallax">
+            <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(4,29,39,0.9"/>
+            <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(4,29,39,1)"/>
+            <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(4,29,39,0.8)"/>
+            <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(4,29,39,1)"/>
+          </g>
+        </svg>
+      </div>
+      <!--Waves end-->
+      <div class="relative">
+        {{ partial "site-navigation.html" . }}
+        <div class="tc-l pv7 ph3 ph4-ns">
+          <h1 class="f-headline-l fw9 mb0 lh-title animate-text">
+            {{ .Title | default .Site.Title }}
+          </h1>
+          {{ with .Params.description }}
+            <h2 class="fw4 f6 f3-l black measure-wide-l center lh-copy mt3 mb4">
+              {{ . }}
+            </h2>
+          {{ end }}
+        </div>
       </div>
     </div>
   </header>

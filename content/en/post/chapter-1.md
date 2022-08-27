@@ -1,6 +1,6 @@
 ---
 date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
+description: "How to create a blazing fast website with HugoJS"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 title: "Chapter I: The Grand Hall"

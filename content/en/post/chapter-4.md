@@ -1,9 +1,9 @@
 ---
 date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
+description: "How to create a blazing fast website with HugoJS"
 featured_image: ""
 tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+title: "How to create a blazing fast website with HugoJS"
 ---
 While the pensioner of Ghent and his eminence were exchanging very low
 bows and a few words in voices still lower, a man of lofty stature, with a

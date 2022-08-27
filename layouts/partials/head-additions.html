@@ -1,0 +1,7 @@
+<!-- Main JS -->
+{{ $mainJs := resources.Get "js/main.js" | js.Build "main.js" | minify | fingerprint }}
+<script src="{{ $mainJs.Permalink }}"></script>
+
+<!-- Main CSS -->
+{{ $mainCss := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $mainCss.Permalink }}">

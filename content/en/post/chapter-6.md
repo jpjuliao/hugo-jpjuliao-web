@@ -1,9 +1,9 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-description: "Esmeralda"
+description: "How to create a blazing fast website with HugoJS"
 featured_image: "/images/esmeralda.jpg"
 tags: []
-title: "Chapter VI: Esmeralda"
+title: "Setting Wordpress as a Headless CMS"
 disable_share: false
 ---
 We are delighted to be able to inform the reader, that during the whole of
