@@ -12,14 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "JPJULIAO"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.fr]
-    title = "Ananke Fr"
+  [languages.es]
+    title = "JPJULIAO"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/es"
 
 [sitemap]
   changefreq = "monthly"
@@ -38,4 +38,12 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/jpjuliaor"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/jpjuliao"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/people/jpjuliao"
