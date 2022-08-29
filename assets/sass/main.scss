@@ -250,13 +250,14 @@ main {
 .animate-text {
   // background:url('https://i.pinimg.com/originals/9f/9c/c5/9f9cc5217bb04790e5fb852b665ca2ff.jpg');
   // background: url("https://thumbs.dreamstime.com/b/tropical-flower-pattern-seamless-flowers-blossom-flowers-nature-background-vector-illustration-61142748.jpg");
-  background: url(/images/mars-panorama-1200-cropped.jpg);
+  // background: url(/images/mars-panorama-1200-cropped.jpg);
   background-size: auto 200%;
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: text-animation-shine 8s linear infinite;
+
   &:nth-child(2) {
     top: 50vh;
   }
@@ -266,6 +267,14 @@ main {
     }
     to {
       background-position: center 200%;
+    }
+  }
+
+  @media (max-width: 959px) {
+    font-size: 13vw;
+
+    & + h2 {
+      font-size: 5vw;
     }
   }
 }
@@ -279,6 +288,10 @@ main {
   left: 0;
   right: 0;
   opacity: 1;
+
+  @media (max-width: 959px) {
+    bottom: -10px;
+  }
 
   /* Animation */
 
@@ -307,20 +320,6 @@ main {
     }
     100% {
       transform: translate3d(85px, 0, 0);
-    }
-  }
-
-  /*Shrinking for mobile*/
-  @media (max-width: 768px) {
-    .waves {
-      height: 40px;
-      min-height: 40px;
-    }
-    .content {
-      height: 30vh;
-    }
-    h1 {
-      font-size: 24px;
     }
   }
 }
