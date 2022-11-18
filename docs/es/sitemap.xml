@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/hugo-jpjuliao-web/es/</loc>
+    <loc>/es/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/"
+                href="/es/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/post/chapter-1/</loc>
+    <loc>/es/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/post/chapter-1/"
+                href="/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/post/chapter-1/"
+                href="/es/post/chapter-1/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/tags/scene/</loc>
+    <loc>/es/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/tags/scene/"
+                href="/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/tags/scene/"
+                href="/es/tags/scene/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/tags/</loc>
+    <loc>/es/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/tags/"
+                href="/es/tags/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/post/</loc>
+    <loc>/es/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/post/"
+                href="/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/post/"
+                href="/es/post/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/categories/</loc>
+    <loc>/es/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/categories/"
+                href="/es/categories/"
                 />
   </url><url>
-    <loc>/hugo-jpjuliao-web/es/contact/</loc>
+    <loc>/es/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/hugo-jpjuliao-web/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/hugo-jpjuliao-web/es/contact/"
+                href="/es/contact/"
                 />
   </url>
 </urlset>
