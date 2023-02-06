@@ -1,10 +1,11 @@
 ---
 date: 2017-04-14T11:25:05-04:00
-description: "How to create a blazing fast website with HugoJS"
-featured_image: "/images/esmeralda.jpg"
+description: ""
+# featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "Setting Wordpress as a Headless CMS"
 disable_share: false
+published: false
 ---
 We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on

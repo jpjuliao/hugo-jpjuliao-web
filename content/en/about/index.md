@@ -6,6 +6,8 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/jp.jpg" alt="Photo of Juan Pablo Juliao" >}}
+{{< figure src="/images/me.jpeg" alt="Photo of Juan Pablo Juliao" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+I'm a certified Full Stack Web Developer with more than a decade of professional experience managing web products in multiple work environments and using many tools, frameworks, libraries and CMSs. I can code in PHP, Javascript and Python following various software design patterns and also design functional, reactive and blazingly-fast UIs using different mechanisms for HTML rendering via client-side or server-side.
+
+My responsibilities included the planning, executing and shipping high quality applications with the help of Agile teams, CI/CD and automated workflows for renowned organizations around the world like Toyota, UCLA Health, Banco Santander, Ncarb, The Bulletin of The Atomic Scientists and more.

@@ -17,10 +17,10 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
-  [languages.es]
-    title = "JPJULIAO"
-    weight = 2
-    contentDir = "content/es"
+  # [languages.es]
+  #   title = "JPJULIAO"
+  #   weight = 2
+  #   contentDir = "content/es"
 
 [sitemap]
   changefreq = "monthly"
@@ -47,4 +47,4 @@ url = "https://github.com/jpjuliao"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://linkedin.com/people/jpjuliao"
+url = "https://linkedin.com/in/jpjuliao"
